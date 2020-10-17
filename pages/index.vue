@@ -2,7 +2,7 @@
   <div class="wrapper">
     <h2 class="title">
       Hi I'm
-      <span>Ruphaa Ganesh</span>
+      <a href="https://ruphaa.dev/" target="_blank" rel="noreferrer noopener">Ruphaa Ganesh</a>
     </h2>
     <p class="intro">
       This website has all kinds of projects ranging from beginner to intermediate built using
@@ -48,8 +48,9 @@ body {
   color: #676767;
 }
 
-.title span {
+.title a {
   color: #6269f3;
+  text-decoration: none;
 }
 
 .intro {
